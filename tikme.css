@@ -1,0 +1,106 @@
+/* for using Parent-div in CSS */
+div#Parent-div {
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: aqua;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+/* for using child div */
+div#child-div {
+    width: 300px;
+    height: 450px; 
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: azure;
+    margin-left: 20%;
+    margin-top: 10%; 
+}
+
+
+div#txt {
+    width: 115px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgb(222, 221, 221);
+    margin-top: 8%;
+    margin-left: 22%;
+    text-align: center;
+    padding: 5%;
+}
+
+div#para-1 {
+    margin-left: 18%;
+    font-size: small;
+}
+
+div#heading {
+    margin-left: 25%;
+}
+
+div#para-2 {
+    margin-left: 5%;
+}
+
+#cls {
+    margin-left: 50%;
+    font-size: small;
+    color: orangered;
+}
+
+div#number {
+    margin-top: 10px;
+    margin-left: 15%;
+    letter-spacing: 12px;
+    text-decoration: style solid;
+}
+
+div#underscore {  
+    margin-left: 15%;
+    text-decoration: style solid;
+    letter-spacing: 12px;
+}
+
+div#p1 {
+    margin-left: 5%;
+    font-size: small;
+}
+
+.sub-child {
+    width: 70%;
+    height: 8%;
+    background-color:orangered;
+    color:white;
+    margin-left: 12%;
+    text-align: center;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+
+div#p2 {
+    margin-left: 35%;  
+}
+
+img {
+    width: 30%;
+    margin-left: 30%;
+    
+}
+
+button {
+    margin-left: 12%;
+    width: 30%;
+    height: 8%;
+    border-radius: 5px;
+    border: 1px solid orangered;
+    background-color: white;
+    color: orangered;
+}
+
+.btn {
+    margin-left: 5%;
+    background-color: white;
+}
